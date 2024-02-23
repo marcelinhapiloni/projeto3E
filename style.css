@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Iceberg&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Iceberg&display=swap');
+
+:root{
+    --cor-de-fundo:rgba(229, 1, 234, 0.49);
+    --cor-do-titulo:#E46EE7;
+    --cor-botao-ativo:rgba(255, 88, 238, 0.67);
+    --cor-botao-inativo:#8C057F;
+    --cor-escrita-ativa:#59092F;
+    --cor-escrita-inativa:#35001A;
+    --cor-retangulo-ativo:#DEBDEE;
+    --cor-retangulo-inativo:#CD64FF;
+    --cor-nsei:#DE7EEE;
+    --cor-nsei2:#DFA7FA;
+    --cor-nsei3:#FF00D6;
+}
