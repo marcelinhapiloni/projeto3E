@@ -15,3 +15,6 @@
     --cor-nsei2:#DFA7FA;
     --cor-nsei3:#FF00D6;
 }
+body{
+    background-color: var(--cor-de-fundo);
+}
