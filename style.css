@@ -36,5 +36,5 @@ body{
     color: var(--cor-do-titulo);
 }
 .titulo-principal span{
-    color: var(--cor-retangulo-ativo);
+    color: var(--cor-retangulo-inativo);
 }
