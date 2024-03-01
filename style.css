@@ -33,4 +33,5 @@ body{
     text-align: left;
     width: 100%;
     font-size: 32px;
+    color: var(--cor-do-titulo);
 }
