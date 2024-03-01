@@ -40,5 +40,5 @@ body{
 }
 .botao{
     font-family: 'Iceberg', sans-serif;
-    border-color: var(--cor-botao-inativo);
+    background-color: var(--cor-botao-inativo);
 }
