@@ -38,3 +38,7 @@ body{
 .titulo-principal span{
     color: var(--cor-nsei);
 }
+.botao{
+    font-family: 'Iceberg', sans-serif;
+    border-color: var(--cor-botao-inativo);
+}
