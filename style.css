@@ -32,7 +32,7 @@ body{
 .titulo-principal{
     text-align: left;
     width: 100%;
-    font-size: 50px;
+    font-size: 32px;
 }
 .titulo-principal span{
     color: var(--cor-nsei);
@@ -60,7 +60,7 @@ body{
 .botoes { 
     display: block;
 }
-@media screen and (min-width: 768px) { 
+@media screen and (min-width: 768px){ 
     .botoes { 
         display: flex;
     }
